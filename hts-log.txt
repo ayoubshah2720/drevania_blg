@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 12 Jan 2025 11:35:46 at https://drivania.com/en/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://drivania.com/en/ -O1 "C:\My Web Sites\drivania" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:36:04	Error: 	"Not Found" (404) at link https://drivania.com/wp-content/themes/drivania/img/common/favicon-32x32.png (from https://drivania.com/en/)
+11:36:04	Error: 	"Not Found" (404) at link https://drivania.com/wp-content/themes/drivania/img/common/favicon-16x16.png (from https://drivania.com/en/)
+11:36:34	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://drivania.com/en/)
+11:38:53	Warning: 	File not parsed, looks like binary: https://drivania.com/en/terms-conditions/
+11:42:59	Error: 	"Not Found" (404) at link https://drivania.com/en/chauffeurs/%22/vehicles/ (from https://drivania.com/en/chauffeurs/)
+11:44:33	Error: 	"Error when decompressing" (-1) at link https://drivania.com/en/magazine/the-commitment-to-a-greener-future-drivanias-carbon-offset-program (from https://drivania.com/en/magazine/drivania-chauffeurs-receives-the-ibta-award-for-best-practice-2024-in-sustainability/)
+11:44:33	Error: 	"Not Found" (404) at link https://drivania.com/en/contact-us/%22/vehicles/ (from https://drivania.com/en/contact-us/)
+11:50:25	Warning: 	Moved Permanently for https://drivania.com/en/locations/new-york/
+11:50:25	Warning: 	File has moved from https://drivania.com/en/locations/new-york/ to https://drivania.com/en/locations/new-york-ny/
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 47 seconds : 2524 links scanned, 2516 files written (120480769 bytes overall) [111406925 bytes received at 117641 bytes/sec], 14385463 bytes transferred using HTTP compression in 681 files, ratio 29%, 22.1 requests per connection
+(6 errors, 3 warnings, 0 messages)
